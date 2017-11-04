@@ -10,10 +10,10 @@
 
 <!-- versionCode is optional and Android only -->
 
-  <name> My Google Maps</name>
+  <name> GeoLocator</name>
 
   <description>
-     This application displays your current position on your mobile application. The mobile application asks for your location to be turned on (if off) in order to do this. The application displays your current location using the red marker icon for location.
+     This application displays your current position on your mobile application. 
   </description>
 
   <author href="http://npontu.com.com" email="lindadelishoi99@gmail.com">
